@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "Linda perfeita",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -28,29 +28,29 @@ const CONFIG = {
             secretAnswer: "Eu não gosto de voce,eu te amo!❤️"           // Secret hover message
         },
         second: {
-            text: "Quantos purcento voce mim ama?",                          // For the love meter
+            text: "Quantos porcento voce mim ama?",                          // For the love meter
             startText: "isso tudo!",                                   // Text before the percentage
             nextBtn: "próximo ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "Voce quer ficar comigo até a morte??", // The big question!
+            yesBtn: "Simm!",                                             // Text for "Yes" button
+            noBtn: "Não."                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "nossa voce me ama tudo issoo??",  // Shows when they go past 5000%
+        high: "da pra ser mais ne??",              // Shows when they go past 1000%
+        normal: "só isso.."                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "ebaaaaaaaaaa eu sou a pessoa mais sortuda do mundo por ter voce do meu ladoo!!",
+        message: "agora, que esta lendo isso, saiba que você é a pessoa que eu mais amo de todo esse mundo<3",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
