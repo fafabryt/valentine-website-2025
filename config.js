@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "ebaaaaaaaaaa eu sou a pessoa mais sortuda do mundo por ter voce do meu ladoo!!",
         message: "agora, que esta lendo isso, saiba que você é a pessoa que eu mais amo de todo esse mundo<3",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🥺🤍🥺🤍🥺🤍🥺🤍"  // These will bounce around
     },
 
     // Color scheme for the website
