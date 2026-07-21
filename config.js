@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "próximo ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Voce quer ficar comigo até a morte??", // The big question!
+            text: "Você aceita ficar comigo até a morte??", // The big question!
             yesBtn: "Simm!",                                             // Text for "Yes" button
             noBtn: "Não."                                                 // Text for "No" button
         }
@@ -42,14 +42,14 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "nossa voce me ama tudo issoo??",  // Shows when they go past 5000%
+        extreme: "nossa voce me ama tudo issoo?? <3",  // Shows when they go past 5000%
         high: "da pra ser mais ne??",              // Shows when they go past 1000%
         normal: "só isso.."                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "ebaaaaaaaaaa eu sou a pessoa mais sortuda do mundo por ter voce do meu ladoo!!",
+        title: "ebaaaaaaaaaa eu sou a pessoa mais sortuda do mundo por ter voce do meu ladoo!!, eu te amo tanto meu amor, eu quero passar todos os momentos da minha vida ao seu lado",
         message: "agora, que esta lendo isso, saiba que você é a pessoa que eu mais amo de todo esse mundo<3",
         emojis: "🥺🤍🥺🤍🥺🤍🥺🤍"  // These will bounce around
     },
