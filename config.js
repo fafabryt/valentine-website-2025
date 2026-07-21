@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://wooden-cyan-uz1fa2en.edgeone.dev/OMORI%20OST%20-%20079%20How...tragic!%20-%20OMOCAT%20(youtube)%20(1).mp3", // Music streaming URL
+        musicUrl: "music.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
